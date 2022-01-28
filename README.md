@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on reallife projects like webdevelopment
-- 📫 How to reach me @mealdean@gmail.com
+- 📫 How to reach me https://github.com/mealdean
 
 <!---
 mealdean/mealdean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
